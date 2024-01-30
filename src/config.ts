@@ -3,7 +3,7 @@
 
 export const SITE_TITLE = "Welcome to Cheney App";
 export const SITE_DESCRIPTION =
-  "CSCD 488/490 Senior Project webpage";
+  "2024 CSCD 488/490 Senior Project webpage";
 export const TWITTER_HANDLE = "@yourtwitterhandle";
 export const MY_NAME = "test";
 
